@@ -1,3 +1,2 @@
 - JavaScript 100제
-- 프로그래머스 JavaScript 100제
 - 프로그래머스 코딩테스트 문제
